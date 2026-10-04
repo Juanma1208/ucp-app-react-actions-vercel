@@ -1,11 +1,12 @@
-import React from 'react'; 
+import React from 'react';
 
-function App() { 
+function App() {
   return (
-    <div> 
+    <div>
       <h1>Estudiante: Juan Manuel Valencia García</h1>
+      <p>Especialización en Desarrollo de Software - Despliegue automático con GitHub Actions</p>
     </div>
-    ); 
-} 
+  );
+}
 
 export default App;
